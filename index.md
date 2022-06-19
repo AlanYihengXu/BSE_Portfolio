@@ -10,6 +10,6 @@ This will serve as a brief description of your project. Limit this to three sent
 # First Milestone
   
 
-Notes from how the first week went
+My first milestone was to get some games onto the Raspberry Pi and having them run. First, I needed to download an Imager to install an OS onto the Raspberry Pi. After plugging the SD card into my computer, I imaged the RetroPie OS onto the SD card before ejecting the card and plugging it into the Raspberry Pi. With the OS now installed, I went through setting up and configuring RetroPie. Afterwards, I downloaded ROMs of some games onto a USB drive, plugged that into the Raspberry Pi to upload them, and rebooted the system when the uploading finished. Lastly, I used a scraper to scrape game data from the internet so that there would be information on each of the games, and not just file names.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
