@@ -10,9 +10,9 @@ This will serve as a brief description of your project. Limit this to three sent
 # Final Milestone
   
 
-My final milestone was...
+My final milestone was creating a custom ROM hack and running it on the Raspberry Pi. I decided to make a ROM hack of the game "Fire Emblem: The Sacred Stones" because it was one of the mest beginner-friendly games to hack. I used a program called FEBuilder to make my ROM hack, which allowed for me to replace every character in the game with a different class, portrait, name, and stats. I used a randomizer to change both the class and stats of each character, and manually changed the text file for each character's name. I also imported portraits from my computer and replaced the portraits in-game with those portraits. To run it on my RetroPie, I did the same thing as I did for my first milestone by copying the game onto a USB drive and uploading them by plugging the drive into the Raspberry Pi. The end result was being able to play my ROM hack on my Raspberry Pi.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+<iframe width="960" height="540" src="https://www.youtube.com/embed/uCStOtTmm-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
   
