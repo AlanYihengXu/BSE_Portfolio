@@ -1,5 +1,5 @@
 ﻿# Video Game Emulator with Raspberry Pi
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My project is a RetroPie emulator with classic games. I also added a custom theme to the RetroPie, as well as created my own ROM hack of a game and made it playable on the Raspberry Pi.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
