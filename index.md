@@ -5,6 +5,7 @@ My project is a RetroPie emulator with classic games. I also added a custom them
 |:--:|:--:|:--:|:--:|
 | Alan Xu | Homestead High School | Computer Science | Incoming Senior
 
+![Documentation](./Documentation.pdf)
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
 # Final Milestone
